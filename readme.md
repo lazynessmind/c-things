@@ -1,6 +1,6 @@
 # CThings
 
-This is a collection of programs written in C while hi learn C.
+This is a collection of programs written in C while I learn C.
 
 **Note:** This project contains builds for **windows** only.
 
