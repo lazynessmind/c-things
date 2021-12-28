@@ -9,7 +9,8 @@ This is a collection of programs written in C while I learn C.
 
 #### hex 
 
-- takes a decimal number and converts it to hex.
+- takes a decimal number and converts it to hex. 
+- Note: I know the props of `printf`
 
 ```shell
 > .\hex.exe 255
